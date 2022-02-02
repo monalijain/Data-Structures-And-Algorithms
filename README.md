@@ -20,5 +20,3 @@
     5. Quick sort
 ## Dynamic programming
 1. Dynamic Fibonacci
-## Interview Questions
-1. Common items
